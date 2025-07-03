@@ -1,0 +1,57 @@
+#header{
+height: 100px;
+width : 1530px;
+}
+#logo{
+  height: 60px;
+  width: 80px;
+  border: solid black 2px;
+  text-align: center;
+  align-items: center;
+   position: relative;
+  top: 25px;
+  left: 50px;
+}
+#p1{
+  display: inline-block;
+   text-align: center;
+  position: relative;
+  /* left: 800px; */
+ /* bottom: 30px; */
+}
+#p2{
+  display: inline-block;
+   text-align: center;
+   position: relative;
+  /* left: 950px; */
+ /* bottom: 30px; */
+}
+#p3{
+  display: inline-block;
+   text-align: center;
+   position: relative;
+  /* left: 1050px; */
+ /* bottom: 30px; */
+}
+#bar{
+  height: 50px;
+  width: 700px;
+  border-radius: 50px 50px 50px 50px;
+  border: solid 2px black;
+position: relative;
+left: 25%;
+top: 80px;
+text-align: center;
+align-items: center;
+background-color: white;
+}
+#menu{
+  display: flex;
+  gap: 20px; /* adds space between items */
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  left: 35%;
+}
